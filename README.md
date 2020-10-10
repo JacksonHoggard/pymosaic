@@ -1,5 +1,5 @@
 # PyMosaic
-A program that makes a photo mosaic out of any image.
+🖼️ A program that makes a photo mosaic out of any image.
 
 ### Before:
 <p align="center">
